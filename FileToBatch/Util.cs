@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -21,8 +21,8 @@ namespace FileToBatch
             byte[] content = File.ReadAllBytes(fileName);
 
             return new StringBuilder()
-                .AppendLine("-----BEGIN CERTIFICATE-----");
-                .AppendLine(wrapText(Convert.ToBase64String(content)));
+                .AppendLine("-----BEGIN CERTIFICATE-----")
+                .AppendLine(wrapText(Convert.ToBase64String(content)))
                 .Append("-----END CERTIFICATE-----").ToString();
         }
     }
