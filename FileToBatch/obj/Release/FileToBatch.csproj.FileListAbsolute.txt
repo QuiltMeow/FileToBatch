@@ -1,0 +1,11 @@
+D:\User Data\repos\FileToBatch\FileToBatch\bin\Release\FileToBatch.exe.config
+D:\User Data\repos\FileToBatch\FileToBatch\bin\Release\FileToBatch.exe
+D:\User Data\repos\FileToBatch\FileToBatch\bin\Release\FileToBatch.pdb
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.AssemblyReference.cache
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.SuggestedBindingRedirects.cache
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.MainForm.resources
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.Properties.Resources.resources
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.GenerateResource.cache
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.CoreCompileInputs.cache
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.exe
+D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.pdb
