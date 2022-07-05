@@ -20,11 +20,10 @@ namespace FileToBatch
         {
             byte[] content = File.ReadAllBytes(fileName);
 
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine("-----BEGIN CERTIFICATE-----");
-            sb.AppendLine(wrapText(Convert.ToBase64String(content)));
-            sb.Append("-----END CERTIFICATE-----");
-            return sb.ToString();
+            return new StringBuilder()
+                .AppendLine("-----BEGIN CERTIFICATE-----");
+                .AppendLine(wrapText(Convert.ToBase64String(content)));
+                .Append("-----END CERTIFICATE-----").ToString();
         }
     }
 }
