@@ -9,3 +9,14 @@ D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.Genera
 D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.CoreCompileInputs.cache
 D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.exe
 D:\User Data\repos\FileToBatch\FileToBatch\obj\Release\FileToBatch.pdb
+F:\VSProject\FileToBatch\FileToBatch\bin\Release\FileToBatch.exe.config
+F:\VSProject\FileToBatch\FileToBatch\bin\Release\FileToBatch.exe
+F:\VSProject\FileToBatch\FileToBatch\bin\Release\FileToBatch.pdb
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.AssemblyReference.cache
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.SuggestedBindingRedirects.cache
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.MainForm.resources
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.Properties.Resources.resources
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.GenerateResource.cache
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.csproj.CoreCompileInputs.cache
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.exe
+F:\VSProject\FileToBatch\FileToBatch\obj\Release\FileToBatch.pdb
